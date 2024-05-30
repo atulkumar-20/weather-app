@@ -3,6 +3,8 @@
 
 ![Screenshot 2024-05-30 091713](https://github.com/atulkumar-20/weather-app/assets/170754927/7952a040-a224-4cc2-9666-c120dea59fec)
 
+live link:-  https://atulkumar-20.github.io/weather-app/
+
 Description:-
 
 -->A simple and interactive weather application built with JavaScript that allows users to get real-time weather information for any city using a weather API.
